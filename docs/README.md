@@ -7,6 +7,13 @@
 - [项目复盘](reviews/README.md)：保留项目决策和经验。
 - [资源收藏](resources/README.md)：收藏有明确用途的资料。
 
+## 个人资料
+
+- [个人上下文与偏好目录](personal/README.md)
+- [个人偏好总结](personal/preferences.md)
+- [记忆与个人上下文摘要](personal/memory-summary.md)
+- [来源与覆盖范围](personal/sources-and-scope.md)
+
 ## 常用入口
 
 - [快速上手](guides/getting-started.md)
